@@ -1,7 +1,7 @@
 ## HR Analytics Dashboard
 #### This project aims to provide insights into employee attendance trends using HR data. The data is transformed from an Excel sheet and visualized using Power BI to analyze employee presence, work from home (WFH), sick leave, and overall attendance percentages.
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](HR-dashboard.png)
 
 ### Data Transformation
 The HR data is stored in an Excel sheet. To prepare the data for analysis in Power BI, the following transformations were applied:
