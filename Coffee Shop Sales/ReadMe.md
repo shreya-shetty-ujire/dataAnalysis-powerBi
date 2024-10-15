@@ -1,8 +1,6 @@
 # Coffee Shop Sales Analysis Dashboard
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shreya-shetty-ujire/dataAnalysis-powerBi?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/shreya-shetty-ujire/dataAnalysis-powerBi?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shreya-shetty-ujire/dataAnalysis-powerBi?style=social)
 
 ## Overview
 This project aims to analyze and visualize sales performance, order patterns, and product category insights for a coffee shop chain. The Power BI dashboard provides an in-depth look at key metrics such as total sales, orders, and quantity sold. Users can explore month-over-month trends, daily performance, and even hourly sales through dynamic charts and heat maps.
